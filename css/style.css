@@ -1,0 +1,96 @@
+*{
+   margin:0
+}
+/* common start */
+body{
+    font-family: inter;
+    font-size: ;
+    font-weight:black ;
+    color: ;
+}
+/* common end */
+
+/* header start */
+header{
+    background-image: url(../picture/Hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+}
+.container{
+    margin: 0 auto;
+    width: 1140px;
+    overflow: hidden;
+    padding-bottom: 100px;
+    
+}
+.logo{
+    float: left;
+    color: #4E47FF;
+    
+    font-size: 34px;
+        padding-top: 30px;
+}
+.logo h3{
+    font-weight: 500px;
+}
+.btn{
+    float: right;
+    align-items: center;
+    margin-top: 45px;
+    
+    
+}
+.btn button{
+    background-color: #4E47FF;
+    
+   border: 0 solid;
+   border-radius: 8px;
+   padding: 8px 8px;
+}
+
+.btn button a{
+    text-decoration: none;
+     color: white;
+     margin: 10px 10px;
+     font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+/* banner start */
+.banner{
+    text-align: center;
+    margin-top: 58px;
+}
+.banner_text{
+    margin-bottom:37px ;
+}
+.banner_text h2{
+    font-family: raleway;
+    font-weight: bold;
+    font-size: 65px;
+}
+.banner_button{
+    padding-bottom: 200px;
+}
+.banner_button button{
+    background-color: #4E47FF;
+    
+   border: 0 solid;
+   border-radius: 8px;
+   padding: 12px 36px;
+}
+.banner_button button a{
+    text-decoration: none;
+     color: white;
+     margin: 10px 10px;
+     font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+/* banner end */
+/* header end */
