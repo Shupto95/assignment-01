@@ -94,3 +94,58 @@ header{
 }
 /* banner end */
 /* header end */
+
+/* action start */
+.action{
+    margin-top: 84px;
+    padding-bottom: 100px;
+
+}
+.action_text{
+    float:left;  
+    width: 46%; 
+        margin-top: 60px;
+}
+.action_text h3{
+    font-family: "Raleway", sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+     margin-bottom: 23px;
+}
+.action_text p{
+    font-family: "Raleway", sans-serif;
+    font-weight: regular;
+    font-size: 24px;
+    color: #252432;
+    opacity: 50%;
+    margin-bottom: 25px;
+    
+    
+}
+.action_btn{}
+.action_btn button{
+    background-color: #4E47FF;
+    
+   border: 0 solid;
+   border-radius: 8px;
+   padding: 12px 26px;
+}
+
+.action_btn button a{
+    text-decoration: none;
+     color: white;
+     margin: 10px 10px;
+     font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.action_image{
+    float: right;
+    width: 37%;
+    
+}
+.action_image img{
+    border-radius:48px ;
+}
+/* action end */
